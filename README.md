@@ -1,5 +1,5 @@
 # ToDo-App
-Stack: React-Native, axios.js
+Stack: React-Native, Firebase, axios.js
 
 ## Installing global dependencies
 ```
